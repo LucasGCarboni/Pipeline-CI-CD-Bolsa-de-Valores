@@ -1,0 +1,2 @@
+# Pipeline-CI-CD-Bolsa-de-Valores
+Uma API simples e automatizada que envia cotações de ações diretamente para um canal do Discord. Ideal para quem deseja acompanhar o mercado financeiro de forma prática e integrada.

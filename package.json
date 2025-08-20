@@ -1,0 +1,19 @@
+{
+  "name": "pipeline-ci-cd-bolsa-de-valores",
+  "version": "1.0.0",
+  "description": "Uma API simples e automatizada que envia cotações de ações diretamente para um canal do Discord. Ideal para quem deseja acompanhar o mercado financeiro de forma prática e integrada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGCarboni/Pipeline-CI-CD-Bolsa-de-Valores.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasGCarboni/Pipeline-CI-CD-Bolsa-de-Valores/issues"
+  },
+  "homepage": "https://github.com/LucasGCarboni/Pipeline-CI-CD-Bolsa-de-Valores#readme"
+}

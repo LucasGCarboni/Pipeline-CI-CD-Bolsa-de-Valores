@@ -1,11 +1,12 @@
 # Contributing to StockBot API
 
-Obrigado por querer contribuir com o StockBot API! 
+Obrigado por querer contribuir com o StockBot API!
 Siga estas orientações para manter o projeto organizado e facilitar o trabalho de todos.
 
 ---
 
 ## 1. Fluxo de Branches
+
 - Todo desenvolvimento deve ser feito em **branches separadas**.
 - Não é permitido commitar diretamente no `main`.
 - Use nomes de branches claros, por exemplo:
@@ -16,6 +17,7 @@ Siga estas orientações para manter o projeto organizado e facilitar o trabalho
 ---
 
 ## 2. Commits
+
 - Siga o padrão **Conventional Commits**:
   - `feat:` → novas funcionalidades
   - `fix:` → correção de bugs
@@ -28,6 +30,7 @@ Siga estas orientações para manter o projeto organizado e facilitar o trabalho
 ---
 
 ## 3. Pull Requests
+
 - Abra **PRs para o `main`** apenas quando a branch estiver pronta.
 - Todo PR deve:
   - Passar na **pipeline de CI**.
@@ -37,6 +40,7 @@ Siga estas orientações para manter o projeto organizado e facilitar o trabalho
 ---
 
 ## 4. Issues
+
 - Sempre verifique se já não existe uma issue relacionada.
 - Escolha o template correto ao abrir uma nova issue:
   - **Bug report** → erro ou comportamento inesperado
@@ -46,4 +50,3 @@ Siga estas orientações para manter o projeto organizado e facilitar o trabalho
 - Preencha todos os campos obrigatórios do template.
 
 ---
-

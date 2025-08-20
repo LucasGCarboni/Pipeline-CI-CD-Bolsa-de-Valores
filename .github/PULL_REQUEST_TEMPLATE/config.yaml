@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussão geral - Discord
+    url: https://discord.gg/eEkqQVqV
+    about: Use este espaço para perguntas, ideias ou sugestões abertas que não se encaixem em issues.

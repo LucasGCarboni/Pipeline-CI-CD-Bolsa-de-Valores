@@ -1,10 +1,3 @@
----
-name: General PR
-about: Pull Request com múltiplas características (feature, bugfix, docs, refactor, etc.)
-title: "[PR] Descrição geral"
-labels: [enhancement, documentation, refactor, bug, task]
----
-
 ## Descrição
 
 Explique de forma geral as mudanças incluídas neste PR.

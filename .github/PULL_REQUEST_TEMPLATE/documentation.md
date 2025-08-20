@@ -11,7 +11,7 @@ Explique a mudança feita na documentação (ex.: atualização de README, novos
 
 ## Motivação
 
-Por que essa atualização era necessária?  
+Por que essa atualização era necessária?
 
 ## Mudanças realizadas
 

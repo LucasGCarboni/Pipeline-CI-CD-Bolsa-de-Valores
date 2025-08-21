@@ -33,17 +33,17 @@ Sempre escolha o template que melhor descreve sua solicitação.
 
 ## Templates de Pull Requests
 
-Os templates estão localizados em `.github/PULL_REQUEST_TEMPLATE/`.  
+O template está localizados em `.github/PULL_REQUEST_TEMPLATE.md`.  
 Sempre escolha o template que corresponda ao tipo de PR que você está abrindo.
 
 ### Tipos disponíveis:
 
-- **Bugfix (`bugfix.md`)** – Correções de bugs.
-- **Feature (`feature.md`)** – Implementação de novas funcionalidades.
-- **Task (`task.md`)** – Atividades técnicas ou de manutenção.
-- **Refactor (`refactor.md`)** – Refatorações de código sem mudança de comportamento.
-- **Documentation (`documentation.md`)** – Atualizações na documentação.
-- **General (`general.md`)** – Para PRs que abrangem múltiplos aspectos.
+- **Bugfix** – Correções de bugs.
+- **Nova funcionalidade** – Implementação de novas funcionalidades.
+- **Task técnica)** – Atividades técnicas ou de manutenção.
+- **Refatoração** – Refatorações de código sem mudança de comportamento.
+- **Documentação** – Atualizações na documentação.
+- **Outros (especificar)** – Para PRs que abrangem múltiplos aspectos.
 
 ---
 

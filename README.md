@@ -38,3 +38,50 @@ npm install
 # Executar localmente
 npm start
 ```
+
+## 📂 Documentação
+
+A documentação adicional do projeto está disponível na pasta [`docs/`](./docs).
+
+- [Guia de Contribuição](./docs/CONTRIBUTING.md)
+
+## 🛠️ Qualidade de Código
+
+Este projeto utiliza **Prettier** e **ESLint** para manter a consistência e a qualidade do código.
+
+### Prettier
+
+Usado para formatação automática do código.
+
+- Verificar se os arquivos estão formatados:
+
+  ```bash
+  npm run lint:prettier:check
+  ```
+
+- Corrigir automaticamente a formatação:
+  ```bash
+  npm run lint:prettier:fix
+  ```
+
+### ESlint
+
+Usado para identificar problemas de código e boas práticas em arquivos .js.
+
+- Verificar problemas de lint:
+  ```bash
+  npm run lint:eslint:check
+  ```
+
+### Integração Prettier + ESLint
+
+O projeto está configurado para que o ESLint e o Prettier funcionem em conjunto sem conflitos.
+
+- O `eslint-config-prettier` garante que regras de formatação do ESLint não entrem em conflito com as do **Prettier**.
+- O `eslint-plugin-jest` adiciona boas práticas e regras para testes escritos com **Jest**.
+
+Recomenda-se rodar os linters antes de abrir um Pull Request, garantindo que o código esteja limpo e padronizado.
+
+## 📜 Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).

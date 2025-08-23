@@ -82,6 +82,11 @@ O projeto está configurado para que o ESLint e o Prettier funcionem em conjunto
 
 Recomenda-se rodar os linters antes de abrir um Pull Request, garantindo que o código esteja limpo e padronizado.
 
+## Código de Conduta
+
+Este projeto adota o [Contributor Covenant](docs/CODE_OF_CONDUCT.md) como seu Código de Conduta.  
+Todos os participantes devem segui-lo para garantir um ambiente acolhedor e respeitoso.
+
 ## 📜 Licença
 
 Este projeto está sob a licença [MIT](./LICENSE).
